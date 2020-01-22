@@ -18,7 +18,4 @@
 * `git pull origin otherBranch` - Pull remote otherBranch
 * `git pull origin master` - Pull remote master into local branch to resolve conflicts
 * `git push origin otherBranch` - Push local branch to Github; go to Github and create pull request
-* `git `
-
-
-<!-- test -->
+<!-- * `git ` -->
